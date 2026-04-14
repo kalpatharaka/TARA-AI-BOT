@@ -49,6 +49,12 @@ node index.js
 ```
 After running, scan the QR code displayed in the terminal with your WhatsApp.
 
+## 🤝 Contributing
+Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
+
+## 📄 License
+This project is licensed under the [MIT License](LICENSE).
+
 ‍💻 Developer Developed with ❤️ by Kalpa Tharaka.
 
 ⚠ Disclaimer: This bot is for educational purposes only. The developer is not responsible for any misuse. Please use it responsibly and follow WhatsApp's Terms of Service.
