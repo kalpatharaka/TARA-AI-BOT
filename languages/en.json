@@ -1,0 +1,5 @@
+{
+  "WELCOME": "Hello! I am *TARA AI*. How can I help you today?",
+  "SET_LANG": "Language has been set to English.",
+  "INVALID_LANG": "Invalid language! Use .lang si or .lang en"
+}
