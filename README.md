@@ -26,8 +26,8 @@ Ensure you have **Node.js** (v16+) and **npm** installed.
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/kalpatharaka/my-wa-bot.git
-cd my-wa-bot
+git clone https://github.com/kalpatharaka/TARA-AI-BOT
+cd TARA-AI-BOT
 ```
 
 ### 3. Install Dependencies
@@ -36,12 +36,12 @@ npm install
 ```
 
 ### 4. Configure Environment Variables
-Create a .env file in the root directory and add your credentials:
+Create a .env file in the root directory and add your credentials as shown below:(Note: Make sure you don't share your .env file with anyone. It is already added to .gitignore to keep your keys safe.)
 ```Bash
-Code snippet
 MONGODB_URI=your_mongodb_connection_string
 GROQ_API_KEY=your_groq_api_key
 ```
+
 
 ### 5. Run the Bot
 ```Bash
